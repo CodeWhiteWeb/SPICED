@@ -1,0 +1,129 @@
+{
+  "frames": {
+    "Left-0": {
+      "frame": {
+        "x": 160,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 160,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 32
+      }
+    },
+    "Left-1": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 192,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 32
+      }
+    },
+    "Left-2": {
+      "frame": {
+        "x": 224,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 224,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 32
+      }
+    },
+    "front-0": {
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 32
+      }
+    },
+    "front-1": {
+      "frame": {
+        "x": 128,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 128,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 32
+      }
+    }
+  },
+  "meta": {
+    "app": "sprite-sheet-to-json",
+    "version": "1.0.0",
+    "image": "pixel guy.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 288,
+      "h": 32
+    },
+    "scale": "1",
+  "frameTags": [
+   { "name": "", "from": 0, "to": 7, "direction": "forward" },
+   { "name": "Running", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "BigMario", "from": 8, "to": 16, "direction": "forward" },
+   { "name": "RunningBig", "from": 9, "to": 11, "direction": "forward" },
+   { "name": "FlamingMario", "from": 17, "to": 25, "direction": "forward" },
+   { "name": "Loop", "from": 18, "to": 20, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

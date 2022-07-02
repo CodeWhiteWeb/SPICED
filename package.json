@@ -1,0 +1,13 @@
+{
+	"name": "kaboom-env",
+	"dependencies": {
+		"@replit/database": "^2.0.1",
+		"easytimer.js": "^4.5.3",
+		"esbuild": "^0.14.13",
+		"express": "^4.17.1",
+		"kaboom": "^2000.2.9",
+		"stacktrace-js": "^2.0.2",
+		"timer-node": "^5.0.6",
+		"ws": "^8.2.0"
+	}
+}
