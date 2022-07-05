@@ -3568,7 +3568,7 @@ vec4 frag(vec3 pos, vec2 uv, vec4 color, sampler2D tex) {
           scale(1.75),
           fixed()
         ]);
-        add([text("DO NOT RAGE QUITE", {
+        add([text("DO NOT RAGE QUIT", {
           size: 48,
           width: 1e3,
           font: "sinko"
